@@ -67,5 +67,5 @@ gcc bus_reservation.c -o bus
 
 ## 👤 Author
 Gaurav Patel
-Embedded Software Engineer | C++ | Systems Programming
+
 
